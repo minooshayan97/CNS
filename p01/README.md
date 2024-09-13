@@ -4,3 +4,4 @@
 4. Also, for the case where the input of the neurons is an arbitrary current with noise (for different amounts of noise), plot their voltage changes.
 5. Perform previous experiments for different parameter sets.
 6. According to the obtained results, analyze the behavior of different neuron models.
+7. sthfks
